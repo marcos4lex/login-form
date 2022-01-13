@@ -1,6 +1,6 @@
 # login-form
 
-Este é meu segundo projeto em webdesing, um formulário de login feito em HTML e CSS.
+Este é um formulário de login, meu segundo projeto feito em HTML e CSS.
 
 ## Funcionalidades
 
