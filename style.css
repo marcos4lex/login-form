@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}body{
+  background: #1abc9c;
+  overflow: hidden;
+}
+
+.container{
+  max-width: 440px;
+  padding: 0 20px;
+  margin: 140px auto;
+}
+
+.bg-white{
+	width: 100%;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.1);
+}
+
+.bg-white .title{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 90px;
+	background: #16a085;
+	border-radius: 5px 5px;
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.bg-white form{
+  padding: 30px 25px 25px 25px;
+}
+
+.bg-white form .row{
+  height: 45px;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.bg-white form .row input{
+  height: 100%;
+  width: 100%;
+  outline: none;
+  padding-left: 60px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+form .row input:focus{
+  border-color: #16a085;
+  box-shadow: inset 0px 0px 2px 2px rgba(26,188,156,0.25);
+}
+
+form .row input::placeholder{
+  color: #999;
+}
+
+.bg-white form .row i{
+  position: absolute;
+  width: 47px;
+  height: 100%;
+  color: #fff;
+  font-size: 18px;
+  background: #16a085;
+  border: 1px solid #16a085;
+  border-radius: 5px 0 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-white form .pass{
+  margin: -15px 0 20px 0;
+}
+
+.bg-white form .pass a{
+  color: #16a085;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.bg-white form .pass a:hover{
+  text-decoration: underline;
+}
+
+.bg-white form .button input{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 0px;
+  background: #16a085;
+  border: 1px solid #16a085;
+  cursor: pointer;
+}
+
+form .button input:hover{
+  background: #12876f;
+}
+
+.bg-white form .signup-link{
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 15px;
+}
+
+.bg-white form .signup-link a{
+  color: #16a085;
+  text-decoration: none;
+}
+
+form .signup-link a:hover{
+  text-decoration: underline;
+}
+
+.then{
+	text-align: center;
+	padding: 10px;
+	color: #16a085;
+}
+
+hr{
+	width: 20%;
+	padding-left: 45%;
+	margin-left: 28%;
+	color: #E6DECF;
+}
+
+.social .tt, .insta, .face{
+	width: 45px;
+}.social-1{
+	margin-right: 13px;
+}.social{	
+	margin-left: 95px;
+}
