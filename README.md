@@ -10,4 +10,4 @@ Este é meu segundo projeto em webdesing, um formulário de login feito em HTML 
 
 
 
-Você pode também visualizar o meu trabalho clicando no link -> <a href="https://marcos4lex.github.io/login-form/"><b>clique aqui</b></a>
+Você pode também visualizar o meu trabalho clicando no link -> <a href="https://marcos4lex.github.io/login-form/" target="_blank"><b>clique aqui</b></a>
